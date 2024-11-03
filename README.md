@@ -1,1 +1,1 @@
-# FirstGit
+print("Hello World!");
